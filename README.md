@@ -12,9 +12,9 @@ a wheather API that returns the weather condition of a location
 
 in your terminal type:
 
- $ cd API
+ $ cd public-api
  
- while in the API directory
+ while in the public-api directory
  
  
   run from your terminal:
