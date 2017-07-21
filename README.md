@@ -5,14 +5,18 @@ a wheather API that returns the weather condition of a location
  
  clone the repo
  
- HTTP   git@github.com:cjmash/public-api.git
+ HTTP  https://github.com/cjmash/public-api.git 
  
  SSH
+ git@github.com:cjmash/public-api.git
  
 go to the directory 
 
 in your terminal type:
 
  $ cd api
+ while in the API directory
  
- $ run python api.py
+  run from your terminal
+  
+  $ python api.py
