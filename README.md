@@ -9,14 +9,15 @@ a wheather API that returns the weather condition of a location
  
  SSH
  git@github.com:cjmash/public-api.git
- 
-go to the directory 
 
 in your terminal type:
 
- $ cd api
+ $ cd API
+ 
  while in the API directory
  
-  run from your terminal
+ 
+  run from your terminal:
+  
   
   $ python api.py
